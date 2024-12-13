@@ -1,4 +1,5 @@
 # This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
 title: Auto Farma
@@ -7,10 +8,10 @@ message: >-
   para Farmácias.
 type: software
 authors:
-- given-names: Jhonatan Felipe do Nascimento
-    email: jhonatanfelipe901@gmail.com
   - given-names: Júlia Persson Mascari
     email: juliamascari24@gmail.com
+  - given-names: Jhonatan Felipe do Nascimento
+    email: jhonatanfelipe901@gmail.com
   - given-names: Maria Eduarda Borges
     email: maria.borges.1479660@sga.pucminas.br
 repository-code: >-
