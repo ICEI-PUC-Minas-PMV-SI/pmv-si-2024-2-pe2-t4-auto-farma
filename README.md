@@ -1,16 +1,18 @@
-# Nome do projeto
+# AUTO FARMA
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+`Sistemas da informação`
+
+`Aplicações para Processos de Negócios`
+
+`2° SEMESTRE` 
+
+Projeto realizado durante o segundo eixo do curso de Sistemas da Informação, onde foi desenvolvida uma aplicação na plataforma Sydle One com foco em automação dos processos de Cadastro de Funcionários, Controle de Vendas e Compras para Farmácias e a documentação do projeto.
 
 ## Integrantes
+* Jhonatan Felipe do Nascimento
+* Júlia Persson Mascari
+* Maria Eduarda Borges
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+## Professora
 
-## Professor
-
-* Nome completo do professor
+* Joana Gabriela Ribeiro de Souza
